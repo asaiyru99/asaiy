@@ -24,3 +24,5 @@ system (Intel NUC, IP cameras, battery source etc).
 
 Edge AI is on the rise for the intelligent inference of an AI model, but we still have a way to go for generative AI. 
 I am also a curious person and adore my two dogs Hebi and Roxy.
+
+<img src='https://asaiyru99.github.io/asaiy/images/samwy.jpg' alt='Description of the image'>
