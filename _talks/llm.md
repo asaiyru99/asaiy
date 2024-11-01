@@ -1,5 +1,5 @@
 ---
-title: "A Surgery of Signal Recovery: Solving for a Sparse Solution aids Image Reconstruction"
+title: "RAG Reversal: An LLM as a Documentation Assistant with LoRa?"
 collection: talks
 type: "Talk"
 permalink: /portfolio/meta7b
