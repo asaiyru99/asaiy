@@ -1,1 +1,29 @@
+---
+title: "A Surgery of Signal Recovery: Solving for a Sparse Solution aids Image Reconstruction"
+collection: talks
+type: "Talk"
+permalink: /portfolio/meta7b
+venue: null
+date: 2022-11-06
+location: null
+---
 
+Exploring two methods that solve for a solution to effectively reconstruct noisy images. 
+The reconstructed image is denoised and restored. Check out my [publication](https://www.ijert.org/research/exploring-image-reconstruction-with-orthogonal-matching-pursuit-and-least-angle-regression-IJERTV11IS110080.pdf)
+
+
+Compressed sensing is a technique in signal processing that is able to reconstruct a signal by solving undetermined linear systems. 
+There are two conditions under which this is possible; sparsity and incoherence.
+Sparsity is the property that signals can be well-approximated by a few coefficients in a certain, sparse basis. 
+
+After I graduated, the work of a professor from Stanford, i.e. Professor David Donoho, had me deeply interested in sparse representation modeling. 
+I wanted to extensively explore solving for sparse solutions to reconstruct an image; therefore, in this paper, I used images from a noisy dataset 
+and reconstructed a denoised image using the LARS and OMP algorithms. 
+
+Essentially, SSIM is a perception-based metric that calculates image
+quality degradation. I learned that through varying non-zero coefficients and measuring the resulting PSNR and SSIM values, 
+OMP has a higher reconstruction quality. 
+However, OMP fails to reconstruct a sparse vector when the columns of the projection matrix are highly correlated. 
+LARS does not face this problem.
+
+<img src='https://asaiyru99.github.io/asaiy/images/graph.png' alt='Description of the image'>
