@@ -18,14 +18,14 @@ So he trained it with LoRa and the LLM demonstrated more awareness of the topic.
 The idea of training an LLM on raw text and not following a dataset format excites me. I decided to follow through and attempt this on Meta’s 7b reformatted for Hugging Face. Although unlike, Bublint, my fine-tuning values varied and hence my model took 11 hours instead to train on an RTX 4090.
 Technical specifications:
 
-Loaded in 8-bit
+-Loaded in 8-bit
 
-My alpha value is 1.5
+-My alpha value is 1.5
 
-LoRa Rank is 256, LoRa Alpha is 512
+-LoRa Rank is 256, LoRa Alpha is 512
 
-Epochs: 5
+-Epochs: 5
 
-I stopped at loss 1.5 and I trained every layer, not just K and V.
+-I stopped at loss 1.5 and I trained every layer, not just K and V.
 
 My results were affirmative of the effect of training a model with LoRa.
