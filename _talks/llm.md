@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /portfolio/meta7b
 venue: null
-date: 2022-11-06
+date: 2024-06-06
 location: null
 ---
 
