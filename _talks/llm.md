@@ -15,7 +15,7 @@ Training an LLM with LoRa to create a documentation assistant that can intellige
 So he trained it with LoRa and the LLM demonstrated more awareness of the topic. Bublint suggested that this could perhaps be a replacement to vector databases. Quite frankly, I don’t know how much research in this field yields results robust enough to replace vector databases. But I’ve seen his work and other people’s work that demonstrates that training with LoRa is able to bring a huge amount of awareness to the LLM.
 
 
-The idea of training an LLM on raw text and not following a dataset format excites me. I decided to follow through and attempt this on Meta’s 7b reformatted for Hugging Face. Although unlike, Bublint, my fine-tuning values varied and hence my model took 11 hours instead to train on an RTX 4090.
+The idea of training an LLM on raw text and not following a dataset format excites me. I decided to follow through and attempt this on Meta’s 7b reformatted for Hugging Face. Although, unlike Bublint, my fine-tuning values varied and hence my model took 11 hours instead to train on an RTX 4090.
 Technical specifications:
 
 -Loaded in 8-bit
