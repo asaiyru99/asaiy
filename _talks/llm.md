@@ -29,3 +29,9 @@ Technical specifications:
 -I stopped at loss 1.5 and I trained every layer, not just K and V.
 
 My results were affirmative of the effect of training a model with LoRa.
+
+This was the model before the LoRa training:
+
+<img src='https://asaiyru99.github.io/asaiy/images/sc2.png' alt='Description of the image'>
+<img src='https://asaiyru99.github.io/asaiy/images/sc3.png' alt='Description of the image'>
+
