@@ -32,6 +32,11 @@ My results were affirmative of the effect of training a model with LoRa.
 
 This was the model before the LoRa training:
 
-<img src='https://asaiyru99.github.io/asaiy/images/sc2.png' alt='Description of the image'>
-<img src='https://asaiyru99.github.io/asaiy/images/sc3.png' alt='Description of the image'>
+<img src='https://asaiyru99.github.io/asaiy/images/sc4.png' alt='Description of the image'>
+
+This was the model after the training:
+
+<img src='https://asaiyru99.github.io/asaiy/images/sc1.png' alt='Description of the image'>
+
+
 
