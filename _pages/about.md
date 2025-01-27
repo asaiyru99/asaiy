@@ -12,7 +12,7 @@ Some of AI’s dependencies are the nature of data and hardware,
 and I focus on optimizing these constraints with my love for signal 
 processing and analog electronics. I have a personal vision to 
 revolutionize Human—AI interaction through my research in Markov Blankets 
-and my perception framework; essence. 
+and my perception framework; Nuance. 
 
 On the electronics front end: I am well familiar with embedded Linux and used a 
 minimal Linux distribution (buildroot) to create the root file systems 
